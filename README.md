@@ -3,7 +3,7 @@
 Thank you for reading my project on Modeling Politicization on Short Form Text Data. For a guide to navigating this repository please see below.
 
 
-**Data:** Sample data for project. Due to Github file upload limits the data itself is not included in this repository but can be downloaded from Google Cloud Storage at [this link](#).  
+**Data:** Sample data for project. Due to Github file upload limits the data itself is not included in this repository but can be downloaded from Google Cloud Storage at [this link](https://storage.googleapis.com/capstone-data-nto/congress_tweets.csv.zip).  
 
 **Graphs:** Contains images of the graphs that are used in the paper.  
 
